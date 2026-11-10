@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""janitor - a tiny codebase janitor (MVP).
+"""janitor - a tiny codebase janitor (MVP), by Jackson.
 
 Scans a Python project for:
   1. unused imports            (auto-fixable)
